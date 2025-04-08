@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff61f6&size=30&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Liya+Far+👩🏽‍💻;Flutter+%26+Web3+Developer+🚀;Turning+ideas+into+apps+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff61f6&size=30&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Liya+Far;Flutter+%26+Web3+Developer+🚀;Turning+ideas+into+apps+✨" />
 </h1>
 
 <p align="center">
