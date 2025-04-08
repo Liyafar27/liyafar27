@@ -50,7 +50,7 @@ Beautifully designed mobile wallet app with **Solana integration**, token tracki
 🤖 [**Crypto Trading Bot (Node.js)**](https://github.com/Liyafar27/solana_wallet_web3)  
 Automated **token swaps and arbitrage** logic across Solana, NEAR, and BNB. Optimized for **profit execution and gas control**.
 
-🧩 [**Web3 Portfolio Site (Flutter WEB)**](https://site-git-master-liyafars-projects.vercel.app)  
+🧩 [**Web3 Portfolio Site (Flutter WEB)**](https://github.com/Liyafar27/liya_far_site)  
 Portfolio showcasing my mobile & Web3 dev work, with animations, case studies.
 
 ---
