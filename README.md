@@ -55,24 +55,6 @@ Portfolio showcasing my mobile & Web3 dev work, with animations, case studies.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liyafars&show_icons=true&theme=radical&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyafars&layout=compact&theme=radical" />
-</p>
-
----
-
-### 📬 Contact
-
-- 📫 [Telegram](https://t.me/liyafars)
-- 🌐 [Portfolio Website](https://site-git-master-liyafars-projects.vercel.app)
-- ✨ Always open to new challenges and collaborations!
-- CV 
-
----
-
 ### 📬 Contact Me
 
 Feel free to reach out — I’m always open to exciting projects, freelance work, or just a friendly dev chat!
@@ -80,6 +62,8 @@ Feel free to reach out — I’m always open to exciting projects, freelance wor
 - 💌 Email: [liyafarapp@gmail.com](mailto:liyafarapp@gmail.com)
 - 💬 Telegram: [@LiyaFar](https://t.me/LiyaFar)
 - 💼 LinkedIn: [Aliya Farkhshatova](https://www.linkedin.com/in/aliya-farkhshatova-570167203/)
+- 🌐 [Website](https://site-git-master-liyafars-projects.vercel.app)
+- 👩🏽‍💻 [CV] (https://github.com/Liyafar27/cv.github.io/blob/main/Aliya%20Farkhshatova%20Flutter%20dev.pdf)
 
 <p align="center">
   <a href="mailto:liyafarapp@gmail.com"><img src="https://img.shields.io/badge/email-ff61f6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
