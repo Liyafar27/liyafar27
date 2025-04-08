@@ -15,81 +15,32 @@ My focus: responsive UI, powerful backend integration, and a touch of 💅 glam.
 
 ---
 
-### 🚀 Tech Stack
-🚀 Tech Stack
-<table> <tr> <td valign="top" width="50%">
-🧩 Mobile Development
-Flutter & Dart
+## 🚀 Tech Stack
 
-Android (Kotlin, Java)
+| **Category**       | **Details**                                                                 |
+|--------------------|------------------------------------------------------------------------------|
+| **Mobile Dev**     | Flutter (Dart), Android (Kotlin/Java), iOS (Swift), Firebase, REST / GraphQL |
+| **UI/UX**          | Responsive Design, Figma, Adobe XD, Rive Animations                         |
+| **State Mgmt**     | BLoC, Provider, Riverpod, ValueNotifier                                     |
+| **Storage**        | Hive, SharedPreferences, flutter_secure_storage                             |
+| **Navigation**     | go_router, Deep Linking, Navigation 2.0                                     |
+| **Testing**        | Unit, Widget & Integration Testing                                          |
+| **Tools**          | Git, GitHub, GitLab, CI/CD (GitHub Actions, Bitrise), Crashlytics, Sentry    |
 
-iOS (Swift)
+---
 
-JavaScript
+## 💎 Web3 & Crypto
 
-Responsive UI / UX Design
+| **Category**       | **Details**                                                                 |
+|--------------------|------------------------------------------------------------------------------|
+| **Wallets**        | Phantom, MetaMask, Meteor, Uniswap Wallet                                   |
+| **Blockchains**    | Solana, NEAR, BNB Chain, Bitcoin                                            |
+| **Web3 Features**  | Wallet Creation, Token Swaps, Transfers, Gas/Fee Calculation, Signing       |
+| **DEX Tools**      | Jupiter, Raydium                                                            |
+| **Networking**     | RPC & WebSocket Integration                                                 |
+| **Frontend**       | Flutter UI for Web3                                                         |
+| **Bots (Node.js)** | Auto Swaps, Arbitrage, Tx Monitoring, Profit Optimization, Pancake/SushiSwap|
 
-Firebase 🔥
-
-REST APIs / GraphQL / WebSockets
-
-State Management: BLoC, Provider, Riverpod
-
-🛠 Tools
-Git, GitHub, GitLab
-
-CI/CD (GitHub Actions, Bitrise)
-
-Figma, Adobe XD
-
-Jira, Confluence
-
-Crashlytics, Sentry
-
-✅ Testing & Quality
-Unit, Widget & Integration Testing
-
-Deep Linking, Navigation 2.0
-
-Local Storage (Hive, SharedPreferences)
-
-Rive Animations
-
-FCM Notifications
-
-</td> <td valign="top" width="50%">
-💎 Web3 / Crypto Dev
-Wallets: Phantom, MetaMask, Uniswap, Meteor
-
-Blockchains: Solana, NEAR, BNB Chain, Bitcoin
-
-Web3 Flutter: Wallet creation (Solana), Integration with Phantom / Meteor
-
-Transactions: Swaps, Token Transfers
-
-DEX Tools: Jupiter, Raydium
-
-Signing & Fees: Transaction Sign / Gas Fee / Confirmation
-
-Communication: RPC & WebSocket Interaction
-
-Frontend: Flutter UI for Web3
-
-Bots:
-
-Auto Token Swapping
-
-Transaction Monitoring & Confirmation
-
-Arbitrage Trading
-
-Profit Optimization
-
-Price Monitoring (PancakeSwap / SushiSwap)
-
-Built in Node.js (SOL/USDC, NEAR/USDC, ENE/MEME)
-
-</td> </tr> </table>
 
 ### 🚧 Projects
 
