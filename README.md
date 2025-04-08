@@ -16,45 +16,80 @@ My focus: responsive UI, powerful backend integration, and a touch of 💅 glam.
 ---
 
 ### 🚀 Tech Stack
+🚀 Tech Stack
+<table> <tr> <td valign="top" width="50%">
+🧩 Mobile Development
+Flutter & Dart
 
-#### 🧩 Mobile Development
-- **Flutter & Dart**
-- Android (**Kotlin**, **Java**)
-- Swift, JavaScript
-- UI/UX Design
-- Responsive Layouts
-- Firebase 🔥
-- REST APIs / GraphQL / WebSockets
-- State Management: Bloc, Provider, Riverpod, ValueNotifier
+Android (Kotlin, Java)
 
-#### 🛠 Tools
-- Git, GitHub, GitLab
-- CI/CD (GitHub Actions, Bitrise)
-- Figma, Adobe XD
-- Jira, Confluence
+iOS (Swift)
 
-#### ✅ Testing & Quality
-- Unit Testing, Widget Testing, Integration Testing
-- Crashlytics, Sentry
+JavaScript
 
-#### 🌐 App Features
-- FCM Notifications
-- Local Storage (Hive, SharedPreferences)
-- Deep Linking, Navigation 2.0
-- Rive Animations
+Responsive UI / UX Design
 
----
+Firebase 🔥
 
-### 💎 Web3 / Crypto Dev
+REST APIs / GraphQL / WebSockets
 
-- **Wallets**: Phantom, MetaMask, Uniswap Wallet, Meteor  
-- **Blockchains**: Solana, NEAR, BNB Chain, Bitcoin  
-- **Transactions**: Swaps, Token Transfers, Gas/Fee Calculations  
-- **Tools**: Jupiter, Raydium, RPC & WebSocket Integration  
-- **Frontend**: Flutter UI for Web3  
-- **Bots**: Auto Swapping, Transaction Monitoring, Arbitrage
+State Management: BLoC, Provider, Riverpod
 
----
+🛠 Tools
+Git, GitHub, GitLab
+
+CI/CD (GitHub Actions, Bitrise)
+
+Figma, Adobe XD
+
+Jira, Confluence
+
+Crashlytics, Sentry
+
+✅ Testing & Quality
+Unit, Widget & Integration Testing
+
+Deep Linking, Navigation 2.0
+
+Local Storage (Hive, SharedPreferences)
+
+Rive Animations
+
+FCM Notifications
+
+</td> <td valign="top" width="50%">
+💎 Web3 / Crypto Dev
+Wallets: Phantom, MetaMask, Uniswap, Meteor
+
+Blockchains: Solana, NEAR, BNB Chain, Bitcoin
+
+Web3 Flutter: Wallet creation (Solana), Integration with Phantom / Meteor
+
+Transactions: Swaps, Token Transfers
+
+DEX Tools: Jupiter, Raydium
+
+Signing & Fees: Transaction Sign / Gas Fee / Confirmation
+
+Communication: RPC & WebSocket Interaction
+
+Frontend: Flutter UI for Web3
+
+Bots:
+
+Auto Token Swapping
+
+Transaction Monitoring & Confirmation
+
+Arbitrage Trading
+
+Profit Optimization
+
+Price Monitoring (PancakeSwap / SushiSwap)
+
+Built in Node.js (SOL/USDC, NEAR/USDC, ENE/MEME)
+
+</td> </tr> </table>
 
 ### 🚧 Projects
 
