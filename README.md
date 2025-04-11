@@ -53,6 +53,9 @@ Automated **token swaps and arbitrage** logic across Solana, NEAR, and BNB. Opti
 🧩 [**Web3 Portfolio Site (Flutter WEB)**](https://github.com/Liyafar27/liya_far_site)  
 Portfolio showcasing my mobile & Web3 dev work, with animations, case studies.
 
+🧞‍♀️ [**Flutter's built-in animation methods**](https://github.com/Liyafar27/flutter_animations)  
+Flutter animation techniques using only Flutter's built-in methods.
+
 ---
 
 ### 📬 Contact Me
