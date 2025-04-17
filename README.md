@@ -65,7 +65,7 @@ Feel free to reach out — I’m always open to exciting projects, freelance wor
 - 💌 Email: [liyafarapp@gmail.com](mailto:liyafarapp@gmail.com)
 - 💬 Telegram: [@LiyaFar](https://t.me/LiyaFar)
 - 💼 LinkedIn: [Aliya Farkhshatova](https://www.linkedin.com/in/aliya-farkhshatova-570167203/)
-- 🌐 [Website](https://site-git-master-liyafars-projects.vercel.app)   [https://www.liyafar.xyz](https://www.liyafar.xyz)
+- 🌐 [Website](https://www.liyafar.xyz)
 - 👩🏽‍💻 [CV](https://github.com/Liyafar27/cv.github.io/blob/main/Aliya%20Farkhshatova%20Flutter%20dev.pdf)
 
 <p align="center">
