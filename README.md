@@ -50,8 +50,8 @@ Beautifully designed mobile wallet app with **Solana integration**, token tracki
 🤖 [**Crypto Trading Bot (Node.js)**](https://github.com/Liyafar27/solana_wallet_web3)  
 Automated **token swaps and arbitrage** logic across Solana, NEAR, and BNB. Optimized for **profit execution and gas control**.
 
-🧩 [**Web3 Portfolio Site (Flutter WEB)**](https://github.com/Liyafar27/liya_far_site)  
-Portfolio showcasing my mobile & Web3 dev work, with animations, case studies.
+🧩 [**Web3 Portfolio Site (Flutter WEB)**](https://github.com/Liyafar27/liya_far_site)   
+Portfolio showcasing my mobile & Web3 dev work, with animations, case studies. [https://www.liyafar.xyz](https://www.liyafar.xyz)
 
 🧞‍♀️ [**Flutter's built-in animation methods**](https://github.com/Liyafar27/flutter_animations)  
 Flutter animation techniques using only Flutter's built-in methods.
@@ -65,7 +65,7 @@ Feel free to reach out — I’m always open to exciting projects, freelance wor
 - 💌 Email: [liyafarapp@gmail.com](mailto:liyafarapp@gmail.com)
 - 💬 Telegram: [@LiyaFar](https://t.me/LiyaFar)
 - 💼 LinkedIn: [Aliya Farkhshatova](https://www.linkedin.com/in/aliya-farkhshatova-570167203/)
-- 🌐 [Website](https://site-git-master-liyafars-projects.vercel.app)
+- 🌐 [Website](https://site-git-master-liyafars-projects.vercel.app)   [https://www.liyafar.xyz](https://www.liyafar.xyz)
 - 👩🏽‍💻 [CV](https://github.com/Liyafar27/cv.github.io/blob/main/Aliya%20Farkhshatova%20Flutter%20dev.pdf)
 
 <p align="center">
